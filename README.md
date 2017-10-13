@@ -1,4 +1,4 @@
-# Debian Linux + OpenJDK 
+# Alpine Linux + OpenJDK 
 
 Simple Docker image with
 * Alpine Linux
